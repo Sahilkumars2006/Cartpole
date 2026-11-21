@@ -1,0 +1,99 @@
+====================================================
+PHASE 9: FINAL DYNAMIC ANALYSIS REPORT
+====================================================
+
+PROJECT:
+Mathematical Modelling, Simulation and Analysis of a 3D X-Y Cart with an Inverted Spherical Pendulum
+
+SYSTEM DESCRIPTION:
+The system consists of a cart moving in horizontal X and Y directions and an inverted spherical pendulum whose bob moves in three-dimensional space.
+
+ANALYSIS COVERAGE:
+Phase 9.5: Mass, bob mass, rod length and gravity sensitivity evaluated
+Phase 9.6: Horizontal rotational symmetry numerically verified
+Phase 9.7: Initial position and velocity sensitivity evaluated
+Phase 9.8: Mechanical energy conservation verified
+Phase 9.9: Upright uncontrolled instability demonstrated
+Phase 9.10: External force response and work-energy balance verified
+Phase 9.11: Cart and bob mass effects under applied force evaluated
+Phase 9.12: Rod length effects under applied force evaluated
+Phase 9.13: Gravity effects under applied force evaluated
+Phase 9.14: Force magnitude and direction effects evaluated
+Phase 9.15: Relative azimuth and force symmetry verified
+Phase 9.16: 81-case combined parameter study completed
+Phase 9.17: Global parameter sensitivity rankings obtained
+Phase 9.18: Second-order regression and parameter interactions evaluated
+Phase 9.19: Leave-one-out regression validation completed
+
+GLOBAL SENSITIVITY RESULTS:
+Cart displacement eta-squared:
+Cart mass: 0.385905
+Bob mass: 0.032553
+Rod length: 0.000001
+External force: 0.493743
+
+Cart speed eta-squared:
+Cart mass: 0.473683
+Bob mass: 0.010788
+Rod length: 0.000217
+External force: 0.420687
+
+Pendulum inclination eta-squared:
+Cart mass: 0.302721
+Bob mass: 0.037390
+Rod length: 0.000619
+External force: 0.294362
+
+REGRESSION MODEL PERFORMANCE:
+
+Maximum Cart Displacement
+R-squared: 0.99222349
+Adjusted R-squared: 0.99057392
+RMSE: 2.62960530e+00
+
+Maximum Cart Speed
+R-squared: 0.98002644
+Adjusted R-squared: 0.97578962
+RMSE: 5.45084332e-01
+
+Maximum Pendulum Inclination
+R-squared: 0.77848968
+Adjusted R-squared: 0.73150264
+RMSE: 4.82596084e-01
+
+LEAVE-ONE-OUT VALIDATION:
+
+Maximum Cart Displacement
+LOOCV R-squared: 0.98751731
+LOOCV RMSE: 3.33159439e+00
+LOOCV MAE: 2.49241181e+00
+
+Maximum Cart Speed
+LOOCV R-squared: 0.96750879
+LOOCV RMSE: 6.95214621e-01
+LOOCV MAE: 5.13458836e-01
+
+Maximum Pendulum Inclination
+LOOCV R-squared: 0.65717051
+LOOCV RMSE: 6.00379555e-01
+LOOCV MAE: 4.51208011e-01
+
+PHYSICAL VALIDATION:
+Baseline energy drift (J): 3.1317420000e-08
+Baseline rod constraint error (m): 8.5900000000e-11
+Rotational symmetry error: 1.4887770000e-07
+External-force work-energy residual (J): 1.9406960000e-10
+
+RESULT FILE INVENTORY:
+Expected files: 15
+Files found: 15
+Files missing: 0
+
+IMPORTANT INTERPRETATION:
+Regression validation is based on leave-one-out cross-validation of the existing 81-case parameter grid. It does not establish extrapolation accuracy outside the tested parameter ranges.
+The inclination response has lower cross-validated predictive performance than cart displacement and cart speed.
+The physical validation values in this report are previously verified baseline results and are not newly recalculated in Phase 9.20.
+
+====================================================
+END OF PHASE 9 REPORT
+====================================================

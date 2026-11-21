@@ -1,0 +1,16 @@
+Phase,Analysis,Result_File,File_Found,File_Size_KB
+9.5,Parameter sensitivity analysis,phase_9_parameter_sensitivity.mat,1,1.869140625
+9.6,X-Y coupling and rotational symmetry,phase_9_6_xy_coupling_results.mat,1,1114.2119140625
+9.7,Initial condition sensitivity,phase_9_7_initial_condition_results.mat,1,3549.2861328125
+9.8,Mechanical energy transfer analysis,phase_9_8_energy_transfer_results.mat,1,232.044921875
+9.9,Uncontrolled stability analysis,phase_9_9_stability_results.mat,1,637.4755859375
+9.10,External force response analysis,phase_9_10_external_force_results.mat,1,1630.78515625
+9.11,Mass sensitivity under external force,phase_9_11_mass_force_sensitivity_results.mat,1,2315.4462890625
+9.12,Rod length sensitivity under external force,phase_9_12_rod_length_force_results.mat,1,1383.6240234375
+9.13,Gravity sensitivity under external force,phase_9_13_gravity_force_results.mat,1,1384.5419921875
+9.14,External force magnitude and direction,phase_9_14_force_direction_results.mat,1,8157.455078125
+9.15,Initial azimuth and force interaction,phase_9_15_azimuth_force_results.mat,1,14162.0234375
+9.16,Combined parameter interaction,phase_9_16_combined_parameter_results.mat,1,15345.4228515625
+9.17,Global statistical sensitivity,phase_9_17_global_sensitivity_results.mat,1,5.1552734375
+9.18,Multivariable regression and interactions,phase_9_18_regression_interaction_results.mat,1,16.677734375
+9.19,Regression validation and residual diagnostics,phase_9_19_regression_validation_results.mat,1,11.0595703125

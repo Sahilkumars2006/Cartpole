@@ -1,0 +1,5 @@
+Parameter,Cart_Displacement_Rank,Cart_Speed_Rank,Inclination_Rank
+Cart Mass (kg),2,1,1
+Bob Mass (kg),3,3,3
+Rod Length (m),4,4,4
+External Force (N),1,2,2

@@ -1,0 +1,16 @@
+Phase,Main_Finding,Status
+9.5,"Mass, bob mass, rod length and gravity sensitivity evaluated",COMPLETED
+9.6,"Horizontal rotational symmetry numerically verified",COMPLETED
+9.7,"Initial position and velocity sensitivity evaluated",COMPLETED
+9.8,"Mechanical energy conservation verified",COMPLETED
+9.9,"Upright uncontrolled instability demonstrated",COMPLETED
+9.10,"External force response and work-energy balance verified",COMPLETED
+9.11,"Cart and bob mass effects under applied force evaluated",COMPLETED
+9.12,"Rod length effects under applied force evaluated",COMPLETED
+9.13,"Gravity effects under applied force evaluated",COMPLETED
+9.14,"Force magnitude and direction effects evaluated",COMPLETED
+9.15,"Relative azimuth and force symmetry verified",COMPLETED
+9.16,"81-case combined parameter study completed",COMPLETED
+9.17,"Global parameter sensitivity rankings obtained",COMPLETED
+9.18,"Second-order regression and parameter interactions evaluated",COMPLETED
+9.19,"Leave-one-out regression validation completed",COMPLETED

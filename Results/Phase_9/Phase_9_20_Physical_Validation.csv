@@ -1,0 +1,5 @@
+Validation_Metric,Verified_Value
+Baseline energy drift (J),3.131742e-08
+Baseline rod constraint error (m),8.59e-11
+Rotational symmetry error,1.488777e-07
+External-force work-energy residual (J),1.940696e-10
