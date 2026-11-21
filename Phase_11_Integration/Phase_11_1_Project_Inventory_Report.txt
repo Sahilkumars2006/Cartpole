@@ -1,0 +1,76 @@
+PHASE 11.1: PROJECT-WIDE INVENTORY REPORT
+============================================
+
+Project root:
+/home/sahil/Documents/Multibody_CartPole/XY_Spherical_Pendulum
+
+TOTAL PROJECT FILES: 448
+TOTAL PROJECT SIZE: 139.122 MB
+
+MAIN FOLDER VERIFICATION
+------------------------
+Backups : 1
+Data : 1
+Documentation : 1
+Final_Presentation : 1
+Final_Report : 1
+Phase_1_System_Definition : 1
+Phase_2_Mathematical_Model : 1
+Phase_3_Verification : 1
+Phase_4_MATLAB_Simulation : 1
+Phase_5_Animation : 1
+Phase_6_Simulink : 1
+Phase_7_Simscape : 1
+Phase_8_Validation : 1
+Phase_9_Analysis : 1
+Phase_10_Control : 1
+Scripts : 1
+Results : 1
+
+FILE TYPE SUMMARY
+-----------------
+ : 26 files, 0.038 MB
+.csv : 47 files, 0.086 MB
+.gitattributes : 1 files, 0.000 MB
+.gitignore : 1 files, 0.000 MB
+.idx : 1 files, 0.010 MB
+.l : 3 files, 0.043 MB
+.m : 89 files, 0.610 MB
+.mat : 98 files, 66.330 MB
+.md : 10 files, 0.017 MB
+.pack : 1 files, 61.191 MB
+.png : 139 files, 9.977 MB
+.rev : 1 files, 0.001 MB
+.sample : 14 files, 0.026 MB
+.slx : 9 files, 0.771 MB
+.slxc : 3 files, 0.015 MB
+.txt : 2 files, 0.005 MB
+.xml : 3 files, 0.001 MB
+
+CRITICAL ARTIFACT VERIFICATION
+-----------------------------
+Phase_6_Simulink/inverted_spherical_pendulum_lqr.slx : 1
+Phase_7_Simscape/sm_inverted_spherical_pendulum.slx : 1
+Phase_7_Simscape/sm_inverted_spherical_pendulum_lqr.slx : 1
+Phase_7_Simscape/sm_inverted_spherical_pendulum_pre_omega_transfer.slx : 1
+Phase_10_Control/controller_data.mat : 1
+Phase_10_Control/phase_10_5_baseline_results.mat : 1
+Phase_10_Control/phase_10_22_fine_stabilization_boundary_results.mat : 1
+Phase_10_Control/phase_10_23_stabilization_settling_verification_results.mat : 1
+Phase_10_Control/phase_10_24_control_performance_assessment_results.mat : 1
+Phase_10_Control/phase_10_25_final_control_validation_results.mat : 1
+Phase_8_Validation/phase_8_three_model_validation.mat : 1
+Results/MATLAB/cartesian_simulation_results.mat : 1
+Results/Simulink/simulink_simulation_results.mat : 1
+Results/Simscape/uncontrolled_simscape_results_with_omega.mat : 1
+Results/Simscape/controlled_simscape_results_with_forces.mat : 1
+Results/Phase_9/phase_9_final_consolidated_results.mat : 1
+Phase_5_Animation/Inverted_Spherical_Pendulum_LQR_Comparison.avi : 0
+
+FINAL INVENTORY STATUS
+----------------------
+Existing main folders: 17 / 17
+Critical artifacts found: 16 / 17
+PROJECT INVENTORY STATUS: REQUIRES REVIEW
+
+END OF PHASE 11.1 REPORT

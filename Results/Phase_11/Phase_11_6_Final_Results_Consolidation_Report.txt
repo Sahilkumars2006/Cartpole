@@ -1,0 +1,45 @@
+============================================
+PHASE 11.6: FINAL RESULTS CONSOLIDATION
+============================================
+
+Project:
+Mathematical Modelling, Simulation and Analysis of a 3D X-Y Cart with an Inverted Spherical Pendulum
+
+Total expected source files: 14
+Successfully loaded files: 14
+Missing files: 0
+
+--- SOURCE FILE STATUS ---
+
+LOADED     | matlab_uncontrolled                 | Results/MATLAB/cartesian_simulation_results.mat
+LOADED     | matlab_controlled                   | Results/MATLAB/controlled_simulation_results.mat
+LOADED     | simulink                            | Results/Simulink/simulink_simulation_results.mat
+LOADED     | simscape_uncontrolled               | Results/Simscape/uncontrolled_simscape_results_with_omega.mat
+LOADED     | simscape_controlled                 | Results/Simscape/controlled_simscape_results_with_forces.mat
+LOADED     | phase8_validation                   | Phase_8_Validation/phase_8_three_model_validation.mat
+LOADED     | phase9_analysis                     | Results/Phase_9/phase_9_final_consolidated_results.mat
+LOADED     | phase10_baseline                    | Phase_10_Control/phase_10_5_baseline_results.mat
+LOADED     | phase10_fine_boundary               | Phase_10_Control/phase_10_22_fine_stabilization_boundary_results.mat
+LOADED     | phase10_settling                    | Phase_10_Control/phase_10_23_stabilization_settling_verification_results.mat
+LOADED     | phase10_performance                 | Phase_10_Control/phase_10_24_control_performance_assessment_results.mat
+LOADED     | phase10_final_validation            | Phase_10_Control/phase_10_25_final_control_validation_results.mat
+LOADED     | phase11_inventory                   | Phase_11_Integration/phase_11_1_project_inventory_results.mat
+LOADED     | phase11_animation_recovery          | Results/Phase_11/phase_11_2_animation_recovery_results.mat
+
+--- ANIMATION INFORMATION ---
+
+Format: Motion JPEG AVI
+Duration: 15.02 seconds
+Frame rate: 50.00 FPS
+Resolution: 1450 x 900 pixels
+Verified frames: 751
+File size: 128.23 MB
+Integrity: PASSED
+
+--- CONSOLIDATION STATUS ---
+
+PHASE 11.6: CONSOLIDATION PASSED
+
+============================================
+END OF CONSOLIDATION REPORT
+============================================
